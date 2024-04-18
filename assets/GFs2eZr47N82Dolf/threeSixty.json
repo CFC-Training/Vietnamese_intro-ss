@@ -1,0 +1,27 @@
+{
+  "version": "3.66.28355.0",
+  "course_id": "6iVxya1qpyW",
+  "title": "SS vs safeguarding definition gif",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5aGksf0nXsx",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 860,
+    "height": 518
+  },
+  "stage": {
+    "width": 600,
+    "height": 400
+  }
+}

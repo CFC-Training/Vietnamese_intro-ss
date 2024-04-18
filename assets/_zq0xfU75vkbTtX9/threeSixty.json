@@ -1,0 +1,62 @@
+{
+  "version": "3.72.29654.0",
+  "course_id": "5qRkL2e12PB",
+  "title": "Environmental and social management Tools",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6mztLfaxyLz",
+      "title": "MAIN ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "65ra0NNLZex",
+      "title": "social impacts",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5jVFRByh2o6",
+      "title": "risk screening",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6mO6ltcmSbM",
+      "title": "SEP",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5Xa82Hzy8mB",
+      "title": "gender",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5q3YBak563c",
+      "title": "rangers",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6J0KszEACbu",
+      "title": "mitigation",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6rWXBWPE2yY",
+      "title": "GM",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
